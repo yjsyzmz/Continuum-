@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Continuum icon</title>
+  <defs>
+    <clipPath id="icon-body">
+      <rect x="16.5" y="16.5" width="95" height="95" rx="22"/>
+    </clipPath>
+  </defs>
+  <rect x="16.5" y="16.5" width="95" height="95" rx="22" fill="#FFF8EE" stroke="#D6C4AC" stroke-opacity="0.6"/>
+  <g clip-path="url(#icon-body)">
+    <path d="M 76.6 43.3 A 28 29 0 1 0 76.6 84.7" stroke="#F97316" stroke-width="16" stroke-linecap="butt"/>
+    <path d="M 89 40.8 A 19 28 0 0 1 89 87.2" stroke="#FDBA74" stroke-width="15" stroke-linecap="butt" stroke-opacity="0.84"/>
+    <path d="M49 63 C61 58 76 56 93 55" stroke="#EA580C" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M49 64 C62 63 77 63 96 63" stroke="#EA580C" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M49 65 C61 70 76 72 93 73" stroke="#EA580C" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M76 58 L96 56" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.67" stroke-dasharray="2.5 4"/>
+    <path d="M76 63 L99 63" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.67" stroke-dasharray="2.5 4"/>
+    <path d="M76 70 L96 72" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.67" stroke-dasharray="2.5 4"/>
+    <circle cx="49" cy="64" r="5.5" fill="#EA580C"/>
+  </g>
+</svg>
