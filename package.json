@@ -11,6 +11,7 @@
     "build:firefox": "wxt build -b firefox",
     "zip": "wxt zip",
     "zip:firefox": "wxt zip -b firefox",
+    "validate:cws": "node scripts/validate-cws-package.mjs .output/continuum-0.1.0-cws-clean.zip",
     "test": "vitest run",
     "test:watch": "vitest",
     "check": "pnpm compile && pnpm test && pnpm build",
