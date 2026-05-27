@@ -6,7 +6,7 @@ export default defineConfig({
     name: 'Continuum',
     description:
       'Pick up where Claude left off. Continuum quietly saves long Claude tasks and generates handoff prompts.',
-    permissions: ['notifications', 'clipboardWrite'],
+    permissions: ['clipboardWrite'],
     host_permissions: ['https://claude.ai/*'],
     action: {
       default_title: 'Continuum',
