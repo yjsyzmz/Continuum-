@@ -2,7 +2,7 @@
   "name": "continuum",
   "description": "Pick up where Claude left off with local-first long-task handoff recovery.",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
