@@ -135,6 +135,10 @@ See `docs/spike-claude-ai.md`, `docs/demo-test-report.md`, and `docs/manual-test
 
 Chrome Web Store copy lives in `docs/store-listing.md`. The public listing URL is intentionally left as a placeholder until the extension is submitted.
 
+## Design Direction
+
+Chrome Web Store image guidance and product UI design direction live in `docs/design-direction.md`.
+
 ## License
 
 MIT. See `LICENSE`.
