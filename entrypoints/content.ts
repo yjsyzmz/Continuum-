@@ -36,7 +36,7 @@ async function forwardToBackground(message: CaptureEnvelope): Promise<void> {
   try {
     await browser.runtime.sendMessage(message);
   } catch (error) {
-    console.warn('[Claude Task Safety] failed to forward capture', error);
+    console.warn('[Continuum] failed to forward capture', error);
   }
 }
 

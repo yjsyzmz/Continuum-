@@ -23,8 +23,8 @@ function App() {
             <ShieldCheck size={20} aria-hidden />
           </span>
           <div>
-            <h1 className="text-base font-semibold leading-5">Claude Task Safety</h1>
-            <p className="text-xs text-slate-500">Local-first task protection</p>
+            <h1 className="text-base font-semibold leading-5">Continuum</h1>
+            <p className="text-xs text-slate-500">Pick up where Claude left off</p>
           </div>
         </div>
       </header>

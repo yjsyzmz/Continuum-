@@ -3,7 +3,7 @@ import { isCaptureEnvelope } from '@/src/shared/types/capture';
 import { browser } from 'wxt/browser';
 
 const captureQueue = createCaptureMessageQueue(undefined, (error) => {
-  console.error('[Claude Task Safety] capture message failed', error);
+  console.error('[Continuum] capture message failed', error);
 });
 
 export default defineBackground(() => {

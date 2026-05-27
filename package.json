@@ -1,6 +1,6 @@
 {
-  "name": "claude-task-safety",
-  "description": "A local-first Claude.ai long-task protection demo extension.",
+  "name": "continuum",
+  "description": "Pick up where Claude left off with local-first long-task handoff recovery.",
   "private": true,
   "version": "0.0.0",
   "type": "module",

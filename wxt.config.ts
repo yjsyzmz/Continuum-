@@ -3,13 +3,13 @@ import { defineConfig } from 'wxt';
 export default defineConfig({
   modules: ['@wxt-dev/module-react'],
   manifest: {
-    name: 'Claude Task Safety',
+    name: 'Continuum',
     description:
-      'Local-first protection and handoff recovery for long Claude.ai tasks.',
+      'Pick up where Claude left off. Continuum quietly saves long Claude tasks and generates handoff prompts.',
     permissions: ['storage', 'notifications', 'scripting', 'clipboardWrite'],
     host_permissions: ['https://claude.ai/*'],
     action: {
-      default_title: 'Claude Task Safety',
+      default_title: 'Continuum',
     },
     web_accessible_resources: [
       {

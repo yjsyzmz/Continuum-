@@ -32,8 +32,8 @@ export default function TaskListApp() {
               <ShieldCheck size={22} aria-hidden />
             </span>
             <div>
-              <h1 className="text-lg font-semibold">Claude Task Safety</h1>
-              <p className="text-sm text-slate-500">本地任务保护与 handoff 恢复</p>
+              <h1 className="text-lg font-semibold">Continuum</h1>
+              <p className="text-sm text-slate-500">从 Claude 停下的地方继续走</p>
             </div>
           </div>
           <a
