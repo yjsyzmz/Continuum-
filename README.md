@@ -127,6 +127,8 @@ tests/                Vitest unit tests
 
 All captured task data stays in the browser extension's IndexedDB. Continuum does not upload conversation content, does not require a Continuum account, does not send telemetry, and does not attempt to access hidden Claude reasoning or thinking.
 
+See the full privacy policy in `docs/privacy-policy.md`.
+
 ## Real Claude.ai Validation
 
 See `docs/spike-claude-ai.md`, `docs/demo-test-report.md`, and `docs/manual-test-checklist.md`. Claude.ai endpoint shapes can change, so the SSE parser is isolated and the extension includes a DOM fallback.

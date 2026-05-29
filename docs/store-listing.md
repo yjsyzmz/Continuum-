@@ -69,5 +69,6 @@ Open source. No signup. Install and forget until the moment you need it.
 ## Listing Notes
 
 - Chrome Web Store URL: TBD.
+- Privacy policy URL: https://github.com/yjsyzmz/Continuum-/blob/main/docs/privacy-policy.md
 - The current P0 build validates visible output capture, local storage, handoff generation, and recovery flow.
 - Quota runway display is part of the product positioning and roadmap; public listing should be reconciled with the shipped feature set before submission.
